@@ -1,7 +1,4 @@
-FROM python:2-alpine
+FROM nginx:alpine
 MAINTAINER Gary Reynolds <gary@touch.asn.au>
 
-ADD src /src
-WORKDIR /src
-
-ENTRYPOINT ["python", "-m", "SimpleHTTPServer"]
+ADD src /usr/share/nginx/html
