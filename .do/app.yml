@@ -8,6 +8,12 @@ domains:
 - domain: shireleaguetouch.com.au
   type: ALIAS
   zone: shireleaguetouch.com.au
+- domain: shiretouchfootball.com
+  type: PRIMARY
+  zone: shiretouchfootball.com
+- domain: shireleaguetouch.com
+  type: ALIAS
+  zone: shireleaguetouch.com
 name: shiretouch
 region: sgp
 static_sites:
