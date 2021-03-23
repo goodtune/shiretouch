@@ -7,6 +7,7 @@ names.
 -   [shiretouchfooty.com.au](https://shiretouchfooty.com.au/)
 -   [shireleaguetouch.com.au](https://shireleaguetouch.com.au/)
 -   [shiretouchfootball.com](https://shiretouchfootball.com/)
+-   [shiretouchfooty.com](https://shiretouchfooty.com/)
 -   [shireleaguetouch.com](https://shireleaguetouch.com/)
 
 ## Deployment

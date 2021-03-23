@@ -11,6 +11,9 @@ domains:
 - domain: shiretouchfootball.com
   type: PRIMARY
   zone: shiretouchfootball.com
+- domain: shiretouchfooty.com
+  type: ALIAS
+  zone: shiretouchfooty.com
 - domain: shireleaguetouch.com
   type: ALIAS
   zone: shireleaguetouch.com
