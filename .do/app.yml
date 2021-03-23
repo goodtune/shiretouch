@@ -19,8 +19,8 @@ region: sgp
 static_sites:
 - environment_slug: html
   github:
-    branch: digitalocean
-    deploy_on_push: true
+    branch: main
+    deploy_on_push: false
     repo: goodtune/shiretouch
   name: shiretouch
   routes:
