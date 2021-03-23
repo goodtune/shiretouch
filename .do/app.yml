@@ -1,0 +1,21 @@
+domains:
+- domain: shiretouchfootball.com.au
+  type: PRIMARY
+  zone: shiretouchfootball.com.au
+- domain: shiretouchfooty.com.au
+  type: ALIAS
+  zone: shiretouchfooty.com.au
+- domain: shireleaguetouch.com.au
+  type: ALIAS
+  zone: shireleaguetouch.com.au
+name: shiretouch
+region: sgp
+static_sites:
+- environment_slug: html
+  github:
+    branch: digitalocean
+    deploy_on_push: true
+    repo: goodtune/shiretouch
+  name: shiretouch
+  routes:
+  - path: /
